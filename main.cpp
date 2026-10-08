@@ -1,9 +1,13 @@
 /*
 <<<<<<< HEAD
+<<<<<<< HEAD
 	Änderung 4
 =======
 	Änderung 1.1
 >>>>>>> R1.1
+=======
+	Nochmal 3.1
+>>>>>>> origin/master
 */
 #include "VDCCommandAPI.h"
 #include <iostream>
