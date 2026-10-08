@@ -1,13 +1,7 @@
 /*
-<<<<<<< HEAD
-<<<<<<< HEAD
-	Änderung 4
-=======
-	Änderung 1.1
->>>>>>> R1.1
-=======
-	Nochmal 3.1
->>>>>>> origin/master
+	Test-2.1
+	
+	Änderung 5
 */
 #include "VDCCommandAPI.h"
 #include <iostream>
