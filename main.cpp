@@ -1,5 +1,5 @@
 /*
-	Änderung 1
+	Änderung 1.1
 */
 #include "VDCCommandAPI.h"
 #include <iostream>
