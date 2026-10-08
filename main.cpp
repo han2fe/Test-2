@@ -1,11 +1,5 @@
 /*
-	Änderung 3
-<<<<<<< HEAD
-=======
-=======
-	Änderung 2.1
->>>>>>> 2.1
->>>>>>> parent of 74ca0ba (jbhk)
+	Nochmal 3.1
 */
 #include "VDCCommandAPI.h"
 #include <iostream>
