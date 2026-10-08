@@ -1,5 +1,9 @@
 /*
+<<<<<<< HEAD
 	Änderung 3
+=======
+	Änderung 2.1
+>>>>>>> 2.1
 */
 #include "VDCCommandAPI.h"
 #include <iostream>
